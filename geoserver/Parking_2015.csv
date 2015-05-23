@@ -1,0 +1,297 @@
+Description,Address,"Latitude, Longitude",Entrance,Phone,Operator,Hourly,Daily Max,EarlyBird,After Hours(flat rate),WeekendRate,Monthly Rate,Hours of Operation,Indoors/Outdoors,Service Type,Motorcyles Allowed,Vehicle Types,Height Restriction,Note,Location 1
+000 Aloha Tower Drive,,,,,,,,,,,,,,,,,,,
+1021 Smith Street,1021 Smith Street,"21.311542, -157.862936",,592-7275,Diamond,,,,$5 after 5 pm,"$5 before 5 pm
+$10 after 5 pm",,,,,,,,Tenants only before 5 pm,"21.311542, -157.862936
+"
+1025 Waimanu Street,1025 Waimanu Street,"21.296648, -157.851510",,597-1789,District Parking Svc,,,,,,,Mon-Sun,Outdoors,,,,None,,"21.296648, -157.851510
+"
+1032 Fort Street Garage (bet. S. Hotel St-S. King St),1043 Bethel Street,"21.310518, -157.861866",,,ProPark,,$18.00,,,,,,,,,,,,"21.310518, -157.861866
+"
+1131 Maunakea Street,1131 Maunakea Street,"21.312651, -157.862120",,592-7275,United Parking Svc.,20 mins-$1; 1 hr-$3; 2 hrs-$5; 4 hrs-$7,,$10 in after 7am out by 5 pm,Fri-Sat - $10 in after 5pm; Sun-Thu-$7 in after 5pm,,"$215 Sun-Thu, in after 5pm","Mon-Sun, 24 hrs.",Outdoors,,,,None,Disabled Spaces,"21.312651, -157.862120
+"
+1132 Bishop Street,1132 Bishop Street,"21.310231, -157.860206",,522-1293,Ampco,$3.25/half hr,$33.00,$15 before 8 am,$3.25 after 4:30 pm,$3.25,$210 unrsvd; $375 rsvd,,,,,,,,"21.310231, -157.860206
+"
+1135 Smith St (bet. N. Pauahi St-N. Hotel St),1135 Smith Street,"21.312396, -157.861906",,,Diamond,,$12.00,,,,,,,,,,,,"21.312396, -157.861906
+"
+1171 Maunakea St (bet. N. Beretania St-N. Pauhahi St),1171 Maunakea Street,"21.313275, -157.861368",,,Diamond,,$10.00,,,,,,,,,,,,"21.313275, -157.861368
+"
+1188 Maunakea,1188 Maunakea,"21.313504, -157.861538",,592-7275,Diamond,20 mins-$1; 1 hr-$2; 2 hrs-$4; 4 hrs-$6,,"$10, in after 7am out by 5pm",$10 Sat-Sun in after 5pm; $5 Mon-Fri in after 5pm,,$100 Sun-Thu in after 5 pm,"Mon-Sun, 24 hrs",Outdoors,Pay and Display; Disabled Spaces,,,,,"21.313504, -157.861538
+"
+1192 Alakea St. (bet. S. Beretania St-S. Hotel St),1192 Alakea Street,"21.310214, -157.858552",,,United Parking Service,,$21.00,,,,,,,,,,,,"21.310214, -157.858552
+"
+1192 Alakea Street,1192 Alakea Street,"21.310214, -157.858552",,592-7275,United Parking Svc.,1 hr-$11; 2 hrs-$16; 3 hrs-$21; 4 hrs-$27; 10 hrs-$32; 24 hrs-$42,,,,,,"Mon-Sun, 24 hours",Outdoors,Pay and Display; Disabled Spaces,,,None,,"21.310214, -157.858552
+"
+120 Nimitz Highway,120 Nimitz Highway,"21.311792, -157.864845",,,Private,$2,,,$3 atr 3 pm,,,Closes at 10 pm,,,,,,,"21.311792, -157.864845
+"
+1218 Hopaka St. (bet. Piikoi St-Pensacola St),1218 Hopaka Street,"21.294954, -157.847416",,,Elite Parking,,$18.00,,,,,,,,,,,,"21.294954, -157.847416
+"
+1227 Kona Street,1227 Kona Street,"21.294596, -157.847964",,971-7755,ProPark,10 hrs-$3,,,$10 in after 10pm out by 6am,,$60,,"Partially Covered, Manned",Honesty Box,,,,,"21.294596, -157.847964
+"
+1245 Aala Street (bet. N. Beretania St-N. Kukui St),1245 Aala Street,"21.316161, -157.862061",,,ProPark,,$5.00,,,,,,,,,,,,"21.316161, -157.862061
+"
+132 Nimitz Hwy (bet. Maunakea St-Kekaulike St),132 Nimitz Highway,"21.311943, -157.864889",,,TBC Parking,,$6.00,,,,,,,,,,,,"21.311943, -157.864889
+"
+1331 Makaloa St. (bet. Keeaumoku St-Sheridan St),1331 Makaloa Street,"21.294781, -157.844371",,,Diamond,,$10.00,,,,,,,,,,,,"21.294781, -157.844371
+"
+1338 Kapiolani Boulevard,1338 Kapiolani Boulevard,"21.294850, -157.844740",,592-7275,Diamond,,,,,,$85,"Mon-Sun, 24 hours",Outdoors,,,,None,,"21.294850, -157.844740
+"
+1347 Kapiolani Boulevard,1347 Kapiolani Boulevard,"21.294308, -157.845173",,592-7275,Diamond,,,,,,$85,,Indoors,Manned,,,,,"21.294308, -157.845173
+"
+1373 Kapiolani Blvd. (bet Kona Iki St-Piikoi St),1373 Kapiolani Boulevard,"21.294121, -157.844182",,,Diamond,,$10.00,,,,,,,,,,,,"21.294121, -157.844182
+"
+1388 Kapiolani Boulevard,1388 Kapiolani Boulevard,"21.294372, -157.843666",,737-7559,Elite Parking Svc.,30 mins-$2,$20.00,,,,,"Mon-Sun, 6am-9pm",Outdoors,Honesty Box,,,None,,"21.294372, -157.843666
+"
+1570 Liona St. (bet. Kaheka St-Keeaumoku St),1570 Liona Street,"21.297418, -157.838909",,,ProPark,,$7.00,,,,,,,,,,,,"21.297418, -157.838909
+"
+1674 Kapiolani Blvd. (bet Kalauokalani Way-Kaheka St),1674 Kapiolani Boulevard,"21.291536, -157.838270",,,Diamond,,$7.00,,,,,,,,,,,,"21.291536, -157.838270
+"
+1723 Kalakaua Ave. (bet. Kapiolani Blvd-Makaloa St),1723 Kalakaua Avenue,"21.291606, -157.836566",,,Diamond,,$8.00,,,,,,,,,,,,"21.291606, -157.836566
+"
+1762 Kalakaua Av. (bet. Kapiolani Blvd-Fern St),1762 Kalakaua Avenue,"21.293334, -157.836709",,,Diamond,,$7.00,,,,,,,,,,,,"21.293334, -157.836709
+"
+202 Beachwalk (bet. Kalia Rd-Kalakaua Ave),202 Beachwalk,"21.279206, -157.832161",,,Elite Parking,,$10.00,,,,,,,,,,,,"21.279206, -157.832161
+"
+215 N. King Street,215 N. King Street,"21.314614, -157.864529",,,,,,,,,"Rates for 12- hr  time frames from 5,6,7 am:  $100 compact rooftop, $110 regular rooftop, $120 compact covered, $130 regular coverd.  24-hr rate:  $115 compact rooftop",,,,,,,,"21.314614, -157.864529
+"
+2150 Lauula St. (bet. Lewers St-Kalaimoku St),2150 Lauula Street,,,,Diamond,,$12.00,,,,,,,,,,,,
+2154 Lauula St. (bet. Lewers St-Kalaimoku St),2154 Lauula Street,"21.281261, -157.829440",,,Diamond,,$9.00,,,,,,,,,,,,"21.281261, -157.829440
+"
+218 Kaiulani Ave (bet. Ala Wai Blvd-Kuhio Ave),218 Kaiulani Avenue,"21.278087, -157.823777",,,Diamond,,$12.00,,,,,,,,,,,,"21.278087, -157.823777
+"
+230 North Beretania Street,230 North Beretania Street,"21.315055, -157.862455",,592-7275,Diamond,2 hrs-$5; 24 hrs-$12,,,,,$80,"Mon-Sun, 24 horus",Outdoors,Pay and Display; Disabled Spaces,,,,,"21.315055, -157.862455
+"
+234 Beachwalk (bet. Kalia Rd-Kalakau Ave),234 Beachwalk,"21.280033, -157.831660",,,Elite Parking,,$3.00,,,,,,,,,,,,"21.280033, -157.831660
+"
+2463 Kalakaua Ave. (bet. Kapiolani Blvd-Makaloa St),2463 Kalakaua Avenue,"21.275168, -157.824498",,,Diamond,,$8.00,,,,,,,,,,,,"21.275168, -157.824498
+"
+252 Saratoga Rd. (bet. Kalio Rd-Kalakaua Ave),252 Saratoga Road,"21.280403, -157.832046",,,Diamond,,$9.00,,,,,,,,,,,,"21.280403, -157.832046
+"
+350 Ward Avenue,350 Ward Avenue,"21.297060, -157.855769",,592-7275,Diamond,,,,,,$80,"Mon-Sun, 24 hours",,,,,,,"21.297060, -157.855769
+"
+41 North Pauahi Street,41 North Pauahi Street,"21.312256, -157.861609",,592-7275,Diamond,1 hr-$5,$20.00,,,,"$215, Mon-Sun in after 12am out by 12am","Mon-Sun, 7am-5pm",Outdoors,Pay and Display; Disabled Spaces,,,None,,"21.312256, -157.861609
+"
+410 Olohana St. (bet. Kuhio Ave-Ala Wai Blvd),410 Olohana Street,"21.284034, -157.830557",,,Diamond,,$7.00,,,,,,,,,,,,"21.284034, -157.830557
+"
+437 Mahukona St. (bet. Atkinson Dr-Kona St),437 Mahukona Street,"21.291058, -157.840280",,,AMPCO,,$9.00,,,,,,,,,,,,"21.291058, -157.840280
+"
+456 Kanekapolei St. (bet. Kuhio Ave-Ala Wai Blvd),456 Kanekapolei Street,"21.278912, -157.823692",,,Diamond,,$12.00,,,,,,,,,,,,"21.278912, -157.823692
+"
+510 Piikoi Street (bet. Piikoi St-Pensacola St),1282 Kona Street,"21.294271, -157.847058",,,ProPark,,$5.00,,,,,,,,,,,,"21.294271, -157.847058
+"
+"526 Halekauwila St., (bet. South St-Punchbowl St)",526 Halekauwila Street,"21.303467, -157.860946",,,State of Hawaii,,$4.00,,,,,,,,,,,,"21.303467, -157.860946
+"
+555 South Street,555 South Street,"21.301219, -157.859929",,,Standard,"2 hrs-$4, 4 hrs.-$6, 10 hrs-$8, 24 hrs-$12",,,,,,,Outdoors,,,,None,,"21.301219, -157.859929
+"
+600 Ward Avenue,600 Ward Avenue,"21.298653, -157.853153",,592-7275,Diamond,,,,,,$125,"Mon-Sun, 24 hrs",Outdoors,Pay and Display; Disabled Spaces,,,None,,"21.298653, -157.853153
+"
+611 Queen St. (bet. Keawe St-South St),611 Queen Street,"21.302461, -157.858090",,,Diamond,,$8.00,,,,,,,,,,,,"21.302461, -157.858090
+"
+677 Ala Moana Building,677 Ala Moana Building,"21.297718, -157.862067",,532-4517,ABM Parking Service,30 mins-$2.50; 1 hr-$5; 90 mins-$7.50; 2 hrs-$10; 2.5 hrs-$12.50; 3 hrs-$15; 4 hrs-$20; 5 hrs-$25,$40.00,$8 (in 6-8:30 am),,,,"Mon-Fri, 6am-8pm",,,,,"6' 6""",,"21.297718, -157.862067
+"
+723 Richards St. (bet S. Hotel St-S. King St),723 Richards Street,"21.306059, -157.862269",,,ABM,,$18.00,,,,,,,,,,,,"21.306059, -157.862269
+"
+"723 Richards St., (bet. Queen St-Halekauwila St)",,,,,ABM,,$18.00,,,,,,,,,,,,
+800 Nuuanu Av. (bet. Marin St-Nimitz Hwy),800 Nuuanu Avenue,"21.310225, -157.864179",,,Diamond,,$20.00,,,,,,,,,,,,"21.310225, -157.864179
+"
+800 Nuuanu Avenue (bet. Marin St-Nimitz Hwy),800 Nuuanu Avenue,,,,Diamond,,$20.00,,,,,,,,,,,,
+816 Sheridan St. (bet. Rycroft St-S. King St),816 Sheridan Street,"21.297165, -157.841937",,,ProPark,,$9.00,,,,,,,,,,,,"21.297165, -157.841937
+"
+"832 Halekauwila St., (bet. Ward Ave-Cooke St)",832 Halekauwila Street,"21.298266, -157.856260",,,District Parking,,$5.00,,,,,,,,,,,,"21.298266, -157.856260
+"
+860 Halekauwila Sreet,860 Halekauwila Street,"21.297997, -157.855757",,"983-1688
+597-1789",District Parking,,,,,,,,,,,,"6' 10""",,"21.297997, -157.855757
+"
+888 Nuuanu Avenue,888 Nuuanu Avenue,"21.310771, -157.863999",,592-7275,Diamond,"0-1 hrs - $8, 1-2 hrs. $10",$10.00,,$7 after 5 pm,"$6 before 5 pm, $10 after 5 pm, $15 all day",,"Mon-Sun, 24 hrs",,,,,,,"21.310771, -157.863999
+"
+919 Auahi Street,919 Auahi,"21.296043, -157.856977",,592-7275,Diamond,,,,,,,,,Honesty Box,,,,,"21.296043, -157.856977
+"
+949 Halekauwila St. (bet. Ward Ave-Kamani St),949 Halekauwila Street,"21.297289, -157.855757",,,Diamond,,$8.00,,,,,,,,,,,,"21.297289, -157.855757
+"
+954 Kaheka St. (bet. Kanunu St-S. King St),954 Kaheka Street,"21.297278, -157.838395",,,ELITE,,$6.00,,,,,,,,,,,,"21.297278, -157.838395
+"
+968 Cooke St. (bet. Kapiolani Blvd-S. King St),,,,,Diamond,,$18.00,,,,,,,,,,,,
+Ala Moana Pacific Center (bet. Mahukona St-Keeaumoku St),1601 Kapiolani Boulevard,"21.291740, -157.839812",,,Diamond,,$6.00,,,,,,,,,,,,"21.291740, -157.839812
+"
+Alakea Corporate Tower,1100 Alakea Street,"21.309464, -157.859565",,971-7755,ProPark,30 mins-$3.25,$45.00,,,,$200,Mon-Fri 7am-7:30pm; Sat 8am-2pm,Indoors,,,,,,"21.309464, -157.859565
+"
+Alii Place,1099 Alakea Street,"21.308709, -157.859664",,522-1285,Ampco,1st 2 hrs - $1.50; thereafter $6,$21.00,,$3 after 3 pm,$3,"$366.40 rsvd, $251.31 unrsvd, $413.61 preminun rsvd",Mon-Sun,,,,,,,"21.308709, -157.859664
+"
+Aloha Tower Marketplace - Irwin Park Lot,1 Aloha Tower Drive,"21.307248, -157.864930",,544-1456,Standard,1 hr-$1.50; 2 hrs-$3; 3 hrs-$4.50; Addtl. 30 mins-$3,$25.00,"$8,, in 7-9am out by 6:30pm",$5 in after 4pm,,"$157.07 unrsvd, $209.47 rsvd",,,,,,,,"21.307248, -157.864930
+"
+American Savings Bank (bet. Kona Iki St-Piikoi St),1357 Kapiolani Boulevard,"21.293424, -157.844982",,973-1235,ABM Parking Service,30 mins-$1.75,$21.00,$5 in 7-9am,,,$156 rsvd; $104 unrsvd,Mon-Fri 7am-8pm; Sat 8am-2pm,,,,,,,"21.293424, -157.844982
+"
+Aston Pacific Monarch Parking (bet. Uluniu Ave-Kaiulani Ave),2427 Kuhio Avenue,"21.276557, -157.823873",,,,,$12.00,,,,,,,,,,,,"21.276557, -157.823873
+"
+"Bank of Hawaii, Waikiki Center",271 Beachwalk,"21.280300, -157.830699",,,ABM,,$18.00,,,,,,,,,,,,"21.280300, -157.830699
+"
+Beretania & Nuuanu,1171 Nuuanu Avenue,"21.311915, -157.860385",,971-7755,ProPark,$3/half hr.,$50.00,$10 paid in advance,$7 after 4 pm,$7,"$193.72 unrsvd., $208.47 rsvd","Mon-Sun, 5am-5pm",,,,,,,"21.311915, -157.860385
+"
+Bishop Place,1132 Bishop Street,"21.309971, -157.860195",,522-1293,ABM,30 mins-$3.25; 1hr-$6.50; 90 mins-$9.75; 2 hrs-$13; 2.5 hrs-$16.25; 3 hrs-$19.50; 4 hrs-$26,$33.00,"$15, in 6am-9am out by 7 pm",,,,"Mon-Fri, 5:30am-7pm",,,,,,,"21.309971, -157.860195
+"
+Bishop Square,1003 Bishop Street,"21.309232, -157.860342",,532-2658,Standard,$8,$64.00,$10 before 6 am,$4 afteer 5 pm,$4,"$235 unrsvd., $360 rsvd.",Mon-Sun,,,,,,,"21.309232, -157.860342
+"
+Blackfield Building,1221 Kapiolani Building,"21.295126, -157.847518",,,ELITE,$5 w/validaton from Honolulu Design Center,,,,,,"Mon-Sun, 24 hrs",Indoors,Pay on Foot,,,,,"21.295126, -157.847518
+"
+Capitol Place/Pflueger Honda Building,1200 Queen Emma Street,"21.310478, -157.857866",,695-2000,,30 mins-$0.75; 1 hrs-$1.50; 90 mins-$2.25; 2 hrs-$3; Additional 30 mins-$1.50,$21.00,,$0.50-30 mins; $3 max; in after 5 pm,30 mins-$0.50; Max $3,,Mon-Sun 24 hrs,Indoors,,,,,,"21.310478, -157.857866
+"
+Central Pacific Bank,505 Ward Avenue,"21.297501, -157.853917",,291-2037,ABM,20 Mins. Free,,,,,,"Mon-Thu, 8:30 am- 4 pm; Fri 8:30 am - 6 pm",,,,,,Customers Only,"21.297501, -157.853917
+"
+Central Pacific Plaza,220 S. King Street,"21.307847, -157.860569",,286-3594,Ampco,$6.50,$42.00,,,,"$230.36 unrsvd., $345.55 rsvd","Mon-Sun, 24 hrs",,,,,,,"21.307847, -157.860569
+"
+Central Pacific Plaza Parking (bet. Richards St-Alakea St),250 S. King Street,"21.307397, -157.860207",,,ABM,,$21.00,,,,,,,,,,,,"21.307397, -157.860207
+"
+Century Square,1188 Bishop Street,"21.310558, -157.858979",,532-2658,Standard,$6,$30.00,,,,Tenants Only,,,,,,,,"21.310558, -157.858979
+"
+Chinatown Cultural Plaza,100 N. Beretania Street,"21.314231, -157.861556",Maunakea Street,532-4515,Ampco,"1st hr-$1, 1-2 hrs: $2, 2-4 hrs: $3, 4-6 hrs: $4; Rate w/o validations: $1.50/half hr.",$24.00,,$3 after 5 pm,$3,$150 unrsvd,Mon-Sun,,,,,,,"21.314231, -157.861556
+"
+Chinatown Gateway Plaza,1031 Nuuanu Avenue,"21.310486, -157.862162",,524-3737,Republic,1st 2 hrs: $0.75/half hr.  Thereafter:  $1.50/half hr.,$21.00,,$3 after 5 pm,$3,$150 unrsvd,,,,,,,,"21.310486, -157.862162
+"
+Chinatown Market Place,154 N. Nimitz Hwy (bet. Kekaulike St-River St),"21.312909, -157.864933",,,ProPark,,$6.00,,,,,,,,,,,,"21.312909, -157.864933
+"
+Chinatown Municipal Parking,27 N. Beretania Street or 162 Nimitz Highway (?),"21.313589, -157.861632",,,ProPark,,,,,,,,,,,,,,"21.313589, -157.861632
+"
+Chinatown Open Market (bet. Maunakea St-Aala St),151 N. Kukui Street,"21.314911, -157.860020",,,ABM,,$18.00,,,,,,,,,,,,"21.314911, -157.860020
+"
+City Financial Center,846 Richards Street,"21.306760, -157.861027",,,,,$21.00,,,,,,,,,,,,"21.306760, -157.861027
+"
+City Financial Center (bet. Richards St-Alakea St),846 Richards Street,"21.306760, -157.861027",,,,,$21.00,,,,,,,,,,,,"21.306760, -157.861027
+"
+City Financial Tower,201 Merchant Street,"21.307201, -157.861458",,545-4421,Ampco,$7,$42.00,$11 before 8 am,,$5 (Sat only),"$235 unrsvd, $345 rsvd","Mon-Sat, 24 hrs",,,,,,,"21.307201, -157.861458
+"
+Clifford Center,810 Richards Street,"21.306634, -157.861591",,941-1301,Republic,"$2.50/half hr., $10 all day (7 am-6 pm)",,,,,"$210 unrsvd, $275 rsvd","Mon-Fri, 7am-6pm",,,,,,,"21.306634, -157.861591
+"
+Davies Pacific Center,841 Bishop Street,"21.307520, -157.862430",,585-2102,Ampco,$8,$45.00,,"$4half hr, $8 max after 4:30 pm","$4/half hr., $8 max",Tenants Only,"Mon-Fri, 8am-9pm",,,,,,,"21.307520, -157.862430
+"
+Distric Parking Service - Lot C (bet. Keawe St-Pier 1),0000 Ilalo Street,"21.297325, -157.864135",,,District Parking,,$5.00,,,,,,,,,,,,"21.297325, -157.864135
+"
+Executive Center ,1088 Bishop Street,"21.309304, -157.860781",,532-2675,Standard,$3/half hr,$45.00,$9 befor 9 am,$4 after 4:30 pm,$4,"$230 unrsvd, $350 rsvd",Mon-Sun,,,,,,,"21.309304, -157.860781
+"
+Finance Factors Center,1164 Bishop Street,"21.310453, -157.859604",,971-7755,ProPark,$3.50,$40.00,,,$5 (Sat only),Tenants Only,,,,,,,,"21.310453, -157.859604
+"
+First Hawaiian Bank (bet. Kaheka St-Keeaumoku St),1563 Makaloa Street,"21.292996, -157.840327",,,ProPark,,$10.00,,,,,,,,,,,,"21.292996, -157.840327
+"
+First Hawaiian Bank-Kapiolani Branch,1580 Kapiolani Boulevard,"21.292357, -157.839873",,971-7755,ProPark,,,,$6 in after 5pm out by 6am,Sat-Sun 24 hours $6 ends at 6am,,,Outdoors,,,,None,,"21.292357, -157.839873
+"
+First Hawaiian Center,999 Bishop Street,,,525-5126,First Hawaiian,n/a,,$10 before 7 am,,$5 (Sat only),Tenants Only,"Mon-Sat, 24 hrs",,,,,,,
+First Insurance Center,1100 Ward Avenue,,,537-2940,ABM,30 mins-$2.50; 1-hr-$5; 90 mins-$7.50; 2 hrs-$10; 2.5 hrs-$12.50; 3 hrs-$15; 4 hrs-$20; 5 hrs-$25,$32.00,,,,,Mon-Fri 6am-8pm; Sat 7am-2:30pm,Indoors,Pay on Foot,,,"6'2""",,
+First Interstate Building,1314 South King Street,,,,,N/A,,,,,,,Indoors,"Pay on Foot, Manned",,,"6' 2""",,
+First Methodist Church,1020 S. Beretania Street,,,N/A,Diamond,N/A,,,,,,,Indoors,Honesty Box,,,,,
+Frank F. Fasi Municipal Building - Civic Center Lot-Employee/Metered Parking,1130 Alapai Street,,,,CCH-DFM,30 min-$1.50,,,,,,"Mon-Fri, 8am-4pm",,,,,,,
+Hale Koa Hotel,2160 Kalia Road,,,,,,$10.00,,,,,,,,,,,,
+Hale Pauahi - Chinatown Municipal Parking,155 N. Beretania Street,,,426-6511,ABM,30 mins-$0.75; 1 hr-$1.50; 90 mins-$2.25; 2 hrs-$3; 2.5 hrs-$4.50; 3 hrs-$6; 4 hrs-$9; 5 hrs-$12,$21.00,,"$0.50/half hr., $3 max fter 5 pm",30 mins-$0.50; Max $3,$90 unrsvd,Mon-Fri 5pm-12 am; Sat & Sun 6am-12am,,,,,,,
+Haleiwa Park and Ride,66-434 Kamehameha Highway,,,,CCH-DTS,,,,,,,,,,,,,,
+Halekulani & Waikiki  Parc Hotel(at Lewers St),2284 Kalia Road,,,,Standard,,$27.00,,,,,,,,,,,,
+Harbor Court,22 Merchant Street,,,522-1240,Ampco,1st 2 hrs: $0.75/half hr.  Thereafter: $$1.50/half hr,,,"$0.50/half hr., $3 max after 5 pm","$0.50/half hr., $3 max",$140 unrsvd,"Mon-Sun, 24 hrs",,,,,,,
+Harbor Square,700 Richards Street,,,971-7755,ProPark,$4/half hr,$75.00,"$10 before 8 am., $12 re-entry",$5 after 4 pm,$5,"$250 unrsvd., $425 rsvd",Mon-Sun,,,,,,,
+Harbor Village (Commercial),901 River Street,,,,CCH-DFM,,,,,,,,,,,,,,
+Haseko Center,820 Mililani Street,,,522-1772,Ampco,$3/half hr,$30.00,$10 before 8 am,,,"$246.07 unrsvd., $314.14 rsvd","Mon-Fri, 6am-6pm",,,,,,,
+Hawaii Convention Center (bet. Ala Wai Blvd-Kapiolani Blvd),1825 Kalakaua Avenue,,,,,,$10.00,,,,,,,,,,,,
+Hawaii Kai Park & Ride,220 Keahole Street,,,,CCH-DTS,,,,,,,,,,,,,,
+Hawaii National Bank,45 N. King Street,,,532-4518,Diamond,$3,$24.00,,,,,"Mon-Fri, 7am-6:30pm",,,,,,,
+HMSA Center,818 Keeaumoku Street,,,971-7755,ProPark,30 mins-$1.50; 24 hrs-$30,,,$5 in after 4pm out by 12am,,,Mon-Thu 7am-12am; Fri & Sat 7am-2am; Sun 7am-12am,,"Pay on Foot, Manned",,,"6' 4""",,
+Honolulu Club,932 Ward Avenue,,,440-2766,ABM,30 mins-$3.25; 1 hr-$5;  90 mins-$6.75; 2 hrs-$8.50; 2.5 hrs-$10.25; 3 hrs-$12; 4 hrs-$15.50,$23.00,,,,,Mon-Fri: 6am-11:30pm; Sun: 8am-11:30; Sun: 9am-8pm,Indoors,"Pay on Food, Manned",,,,,
+Honolulu Design Center,1250 Kapiolani Boulevard,,,237-5475,,3 hrs free; additional 30 mins-$3,,,,,,"Mon-Sun, 9am-9pm",Indoors,,,,,Visitors Only,
+Honolulu Police Department - Employee & Metered Parking,801 S. Beretania Street,,,,CCH-HPD,,,,,,,,,,,,,,
+Iolani Palace,364 S. King Street,,,586-0352,State of Hawaii,"$1/hr., 4 hr max (Meter parking, quarters only)",,,,,,,,,,,,,
+Joint Traffice Management Center (Employee parking),752 S. King Street,,,,CCH-DTS,,,,,,,,,,,,,,
+Kailua Elderly Lot (Lani Huli),26 Aulike Street,,,,CCH-DFM,,,,,,,,,,,,,,
+Kailua Lot (Commercial),26 Aulike Street,,,,CCH-DFM,,,,,,,,,,,,,,
+Kaimuki Lot 1 (Commercial Parking),1150 12th Avenue,,,,CCH-DTS,,,,,,,,,,,,,,
+Kaimuki Lot 2 (Metered Parking),Kokohead Avenue/12th Avenue,,,,CCH-DFM,,,,,,,,,,,,,,
+Kaiser Honolulu Medical Clinic,1010 Pensacola Street,,,,Kaiser Permanente,30 min-Free; 3 hrs-$3,$10.00,,,,,"Mon-Sun, 24 hrs",Indoors,,,,"6' 5""",Disable Spaces,
+Kakaako Piano Lot,160 Ahui Street,,,585-8540,Republic,2 hrs-$2; 10 hrs-$3; 24 hours-$5,,,,,$60,"Mon-Sun, 24 horus",Outdoors,,,,None,"Disable Spaces, Electric Car Charging",
+Kalakaua Lot (Metered Parking),2748 Kalakaua Avenue,,,,CCH-DTS,,,,,,,,,,,,,,
+Kalanimoku Building,1151 Punchbowl Street,,,586-0352,State of Hawaii,"$1/hr., 4 hr max (Meter parking, quarters only)",,,,,,,,,,,,,
+Kapiolani Business Center (bet. Kalauokalani Way-Kaheka St),1660 Kapiolani Boulevard,,,,,,$12.00,,,,,,,,,,,,
+Kapiolani Business Plaza,1580 Makaloa Street,,,255-3878,ABM,30 min-$1.75; 1 hr-$3.50; 90 mins-$5.25; 2 hrs-$7; 2.5 hrs-$8.25; 3 hrs-$10.50; 4 hrs-$14; 5 hrs-$17.50,$26.00,,,,,Mon-Fri 6am-7pm; Sat 7am-3pm,"Indoors, Gated, Manned",,,,,,
+Kapiolani Park (Free/unpaid parking lots around Kapiolani Park),"Paki Avenue
+Bandstand area
+Old driving range parking lot
+Diamond Head tennisw courts                                                                                                                                                                                                                                                        Monsarat/Paki Avenue
+Paki Hale",,,,CCH-DPR,,,,,,,,,,,,,,
+Kapiolani Park (Metered street parking),,,,,CCH-DTS,,,,,,,,,,,,,,
+Kapolei Hale (Employee parking),1000 Uluohia Street,,,,CCH-DFM,,,,,,,,,,,,,,
+Kapolei Hale (Open public parking-no commercial or metered parking),1000 Uluohia Street,,,,CCH-DFM,,,,,,,,,,,,,,
+Kawaiahao Plaza,567 South King Street,,,,Standard,Free w/parking validation,,,,,,,,,Yes,,,,
+Kekaulike Courtyard,1016 Maunakea Street,,,585-0423,Ampco,1st 2 hrs: $0.75/half hr.  Thereafter: $1.50/half hr,No Max,,"$0.50/half hr., $3 max after 5 pm","$0.50/half hr., $3 max",$150 first month.  Thereafter $125,,,,,,,,
+Kekuanaoa Building,465 S. King Street,,,586-0352,State of Hawaii,"$1/hr., 4 hr max (Meter parking, quarters only)",,,,,,,,,,,,,
+Kinau Hale Building,1250 Punchbowl Street,,,586-0352,State of Hawaii,"$1/hr., 2 hr. max (Meter parking, quarters only)",,,,,,,,,,,,,
+King Center (bet. Kaheka St-Keeaumoku St),1451 S. King Street,,,,ProPark,,$15.00,,,,,,,,,,,,
+King Kalakaua Plaza (bet. Kalakaua Ave-Kuhio Ave),374 Kalaimoku Street,,,,Diamond,,$9.00,,,,,,,,,,,,
+Kings Alley (bet. Uluniu Ave-Kaiulani Ave),2412 Koa Avenue,,,,Elite Parking,,$18.00,,,,,,,,,,,,
+Kuakini Medical Center,347 North Kuakini Street,,,547-9370,Kuakini Medical ,Patients and visitors only,,,,,,,Indoors,,,,,,
+Kuhio Village Parking (bet. Liliuokalani Ave-Uluniu Ave),2463 Kuhio Avenue,,,,ProPark,,$12.00,,,,,,,,,,,,
+Kuhio-Kaiolu Lot,Kuhio Avenue/Kaiolu Street,,,,CCH-DFM,,,,,,,,,,,,,,
+Kukui Plaza,1255 Nuuanu Avenue,,,521-1956,Republic,1sr 2 hrs: $0.75/half hr.  Thereafter: $1.50/half hr,$21.00,,"$0.50/half hr., $4 max after 5 pm","$0.50/half hr., $4 max",$100 unrsvd,Mon-Sun,,,,,,,
+Landmark Shops (bet. McCully St-Kalakaua Ave),1831 Ala Wai Boulevard,,,,Diamond,,$3.00,,,,,,,,,,,,
+Makai Garage,530 Halekauwila Street,,,586-0352,State of Hawaii,1st 2 hrs: $1/hr.  Thereafter: $2/hr (7 am - 5 pm),,,,,,"Mon-Fri, 7am-5pm",,,,,,,
+Marin Tower,60 N. Nimitz Highway,,,422-1247,Ampco,1st 2 hrs.: $.075/half hr.  Thereafter: $1.50/half hr,$21.00,$6 before 8 am,"$0.50/half hr., $3 max after 5 pm","$0.50/half hr., $3 max",$125 unrsvd,,,,,,,,
+Marks Garage,22 S. Pauahi Street,,,532-9300,ProPark,$3 half hr.,$50.00,$10 before 3 pm,$5 after 3 pm,$5,"$167.54 unrsvd., $287.96 rsvd",Mon-Fri,,,,,,,
+Maule Sky Court Hotel (bet. Kuhio Ave-Ala Wai Blvd),414 Namahana Street,,,,ABM,,$7.00,,,,,,,,,,,,
+Medical Arts Building,1010 South King Street,,,585-8540,Republic,N/A,,,,,,,Indoors/Outdoors,Pay on Foot,,,"6' 6""",,
+Melim Building,333 Queen Street,,,533-2991,Melim,,$25/day,$9 before 8 am. $11 with re-entry,,,$152 uncoveredf tandem; $167 ucovered single; $185 covered tandem; $200 covered single,"Mon-Fri, 6:30am-6pm",,,,,,,
+Middle Street Intermodal Center w/Park and Ride,611 Middle Street,,,,CCH-DTS,,,,,,,,,,,,,,
+Mililani Mauka Park & Ride,95-1101 Ukuwai Street,,,,CCH-DTS,,,,,,,,,,,,,,
+Miller Garage,"Corner of Punchbowl, Vineyard and Miller Streets",,Miller Street or Punchbowl Street into QMC Main Lobby,,,,,,,,,"Monday, 12:01 am to Sat., 12 midnight",,Self-Park (Attendant),,,,,
+Neal Blaisdell Center,777 Ward Avenue,,King Street,592-7275,Diamond,Day $6 in after 5pm,,,$7 in after 5 pm,,$110,Mon-Sat 5:30am-6pm,Indoors,,,,"6' 3""",,
+Nimitz Business Center,1130 N. Nimitz Highway,,Nimitz Highway,533-7468,Gregory Wood or Scott Lind,Free parking or toll booth for cutomers,,,,,,,,,,,,,
+Ocean View Center,707 Richards Street,,,522-1772,Ampco,$3/half hr,$30.00,$10 before 8 am,,,Tenants Only,"Mon-Fri, 6am-6pm",,,,,,,
+Oceanit Center,828 Fort Street Mall,,,447-1775,Makai Parking Mgmt,1 hr-$4,$32.00,,,$2 Flat Rate,$260 rsvd; $195 unrsvd,Mon-Fri 6am-8pm; Sat 5am-2pm,Indoors,Pay-by-Cell,,,"6' 3""",,
+Ohana East Hotel,2381 Kuhio Avenue,,,,ABM Parking,,$10.00,,,,,,,,,,,,
+Ohana West,404 Nahua Street,,,,ABM,,$18.00,,,,,,,,,,,,
+One Kapiolani Building,600 Kapiolani Boulevard,,,971-7755,ProPark,2 hrs-$3; 4 hrs-$7; 10 hrs-$10; 24 hrs-$12,,$6 (in 6am-9am out by 5pm),,,,"Mon-Sun, 24 hours",,,,,None,,
+One South King Buiulding,33 South King Street,,,585-8540,Republic,Mon-Fri 6am-8pm$10 in after 6am out by 2pm,,,$5 in after 2pm out by 8pm,"$5 Flat rate, Sat 7am-3pm",,"Mon-Fri, 6am-8pm",,,,,,,
+Outrigger Waikiki,2349 Kalakaua Avenue,,,,,,$24.00,,,,,,,,,,,,
+Pacific Beach Hotel,157 Liliuokalani Avenue,,,,,,$25.00,,,,,,,,,,,,
+Pacific Grand,747 Amana Street,,,585-8540,Republic,$10 Flat Rate,,,,,$150 rsvd; $100 unrsvd,,Indoors,,,,"6' 4""",,
+Pacific Guardian Center,733 & 737 Bishop Street,,,532-0200,Ampco,$8,$64.00,$15 before 9 am,$4 after 4 pm,$4,Tenants Only,Mon-Fri,,,,,,,
+Pacific Park Plaza,818 Curtis Street,,,294-2860,ABM,30 mins-$3; 1 hr-$6; 90 mins-$12; 2 hrs-$15; 2.5 hrs-$18; 3 hrs-$21; 4 hrs-$27; 5 hrs-$33,$39.00,,"$5 (in 6 pm-8 pm, out by 7 am)","$5 Flat rate (Sat, 6am-2pm)","$272.25 rsvd, $204.19 unrsvd","Mon-Fri, 6am-8pm",,,,,"6' 5""",,
+Pagoda Ross Garage (bet. Amana St-Keeaumoku St),1527 Kanunu Street,,,,ProPark,,$14.00,,,,,,,,,,,,
+Palace Square,364 S. King Street,,,,CCH-DTS,,,,,,,,,,,,,,
+Pan Am Building (bet. Kalauokalani Way-Kaheka St),1621 Makaloa Street,,,,ABM,,$15.00,,,,,,,,,,,,
+Pantheon Garage,1108 Fort Street Mall,,,523-5111,Pantheon,,,,,,$100-$200 depending on floor,,,,,,,,
+Pauahi & Maunakea,,,,592-7275,Diamond,"0-1 hrs: $3; 1-2 hrs.: $5; 2-4 hrs: $7, $10 All day",,,$7 after 5 pm (Sun-Thu),$10 after 5 pm (Fri & Sat),$225.13 unrsvd,,,,,,,,
+Pioneer Plaza,900 Fort Street Mall,,,537-6793,Ampco,$3.50/half hr.,$45.00,,$3.50 after 5 pm$3.50,$230 unrsvd,,"Mon-Fri, 7am-8pm",,,,,,,
+Pioneer Plaza (bet. Bishop St-Bethel St),78 Merchant Street,,,,ELITE,,$21.00,,,,,,,,,,,,
+Pohukaina Parking Lot,690 Pohukaina Street,,,,State of Hawaii,$7 Flat rate,,,,,,,Outdoors,,,,None,,
+Queen & South Street,600 Queen Street,,,,,"2 hrs-$3, 4 hrs.-$7, 10 hrs-$10, Day-$12 in by 6 am, out by 5 pm",,$6,,,,,,,,,,,
+Queen Street Garage,828 Fort Street Mall,,,971-7755,ProPark,$2/half hr.,$32.00,$11 paid in advance,$2 after 4 pm,,Tenants Only,,,,,,,,
+Queens Medical Center POB I,Lusitana Street,,,,,$5 for 1 - 24 hours; posted rates will apply after 23 hours.,,,,Free on Sundays & Observed Holidays,,"Monday, 12:00a am to Saturday, 12:00 Midnight",,Self-Park (Attendant),,,,$30 lost ticket; Flat Valet Fee $5; Bicycle Parking located on Level 1 of Miller Street Parking Garage,
+Queens Medical Center POB II,Lusitana Street,,,,,$5 for 1 - 24 hours; posted rates will apply after 23 hours.,,,,Free on Sundays & Observed Holidays,,6:00 am - 9:00 pm (Monday thru Saturday),,Self-Park (Attendant),,,,$30 lost ticket; Flat Valet Fee $5; Bicycle Parking located on Level 1 of Miller Street Parking Garage,
+Queens Medical Center-Valet,,,,,,,,,,,,,,,,,,,
+Queens POB III,550 S. Beretania St.,,550 S. Beretania ,532-2663,Standard,$2,$30.00,,,,,,Indoors,Self-Park (Unattended),Yes,"Automobile, Motorcycle, SUV","6'  0""",Disabled Spaces,
+Royal Kunia Park & Ride,94-640 Kupuohi Street,,,,CCH-DTS,,,,,,,,,,,,,,
+S. Beretania & Alakea,1192 Alakea Street,,,592-7275,Diamond,,$30 All day,,$5 after 5 pm,$3,,,,,,,,,
+Salt Lake Lot,5375 Likini Street,,,,CCH-DFM,,,,,,,,,,,,,,
+Seaside Commercial Center,339 Seaside Avenue,,,,,,$9.00,,,,,,,,,,,,
+Sheraton Princess Kaiulani Parking,144 Kaiulaani Avenue,,,,,,$14.00,,,,,,,,,,,,
+Sheraton Waikiki & The Royal Hawaiian Hotel (bet Kalia Rd-Kalakaua Ave),270 Lewers Street,,,,,,$14.00,,,,,,,,,,,,
+Smith & Pauahi,1125 Smith Street,,,592-7275,Diamond,"$5/first half hr, $1/hr.  Thereafter: $12 All day",,,$5 after 5 pm (Sun-Thurs),$10 after 5 pm,$225.13 unrsvd,,,,,,,,
+Smith-Beretania Garage,1170 Nuuanu Avenue,,,525-5201 ,Republic,1st 2 hrs: $0.75/half hr.  Thereafter: $1.50/half hr,$21.00,,,,,Mon-Sun,,,,,,,
+South Street Garage,564 Pokukaina Street,,,586-0352,State of Hawaii,"1 hr-$1, 2 hrs-$2, Additional hr-$2",,,,,,,,,,,,,
+St Andrew's Cathedral,224 Queen Emma Square,,,592-7275,Diamond,2hrs-$; 4 hrs-$15; 10 hrs-$20,,,$2 in after 5 pm,,$213,Mon-Sun 24 hours,Outdoors,Pay and Display,,,None,,
+State Capitol,415 S. Beretania Street,,,586-0352,State of Hawaii,1st 2 hrs.: $1/hr.  Thereafter: $2/hr (Meter parking),,,,,,7 am - 5 pm,,,,,"6' 7""",Electric Car Charging,
+Straub Clinic & Hospital,888 South King Street,,,585-8540,Republic,$3 validation; 30 mins-$2; 10 hrs-$20,$20.00,,,,,,Indoors,"Pay on Food, Manned; Disabled Spaces, Valet",,,,,
+The Waikiki Beachcomber,2300 Kalakaua Avenue,,,,ELITE,,$24.00,,,,,,,,,,,,
+TOPA Financial Center,700 Bishop Street & 745 Fort Street Mall,,,521-2204,ProPark,$3.25/half hr.,$45.00,"$10, $12 re-entry, before 9 am.",$5 after 5 pm,$5,$240.84 unrsvd; $335.08 rsvd,Mon-Sun,,,,,,,
+Vineyard Garage,1418 Punchbowl Street,,,586-0352,Sate of Hawaii,"$1/hr., 2 hr. max (Meter parking, quarters only)",,,,,,,,,,,,,
+Wahiawa Armory Park & Ride,Leilehua Golf Course Road/Kamehameha Highway,,,,CCH-DTS,,,,,,,,,,,,,,
+Wahiawa Parking Lot,180 S. Kamehameha Highway,,,,CCH-DFM,,,,,,,,,,,,,,
+Wahiawa Transit Center Park & Ride,956 California Avenue,,,,CCD-DTS,,,,,,,,,,,,,,
+Waikiki Business Plaza,318 Seaside Avenue,,,,,,$15.00,,,,,,,,,,,,
+Waikiki Galerria Tower,318 Lewers Street,,,,ABM,,$24.00,,,,,,,,,,,,
+Waikiki Parking Garage (bet. Kalakaua Ave-Kuhio Ave),333 Seaside Avenue,,,,ProPark,,$10.00,,,,,,,,,,,,
+Waikiki Resort Hotel,2450 Koa Avenue,,,,,,$9.00,,,,,,,,,,,,
+Waikiki Shell Parking (Free/unpaid parking lot),2805 Monsarrat Avenue,,,,CCH-DPR,,,,,,,,,,,,,,
+Waikiki Shopping Plaza,325 Seaside Avenue,,,,,,$15.00,,,,,,,,,,,,
+Waikiki Trade Center,352 Seaside Avenue,,,,ABM,,$24.00,,,,,,,,,,,,
+Walmart Garage,1032 Fort Street Mall,,,971-7755,ProPark,"Flat Rate $10, Mon-Fri in 6am-1pm up to 10 hrs; $5 Mon-Fri in 1pm-4pm up to 10 hrs",,,"Flat Rate $3, Mon-Fri in after 4 pm out by 10pm","Flat Rate $3, in after 5am out by 10pm",$205,Mon-Sun 5am-10pm,Garage,,,,"6' 4""",,
+Waterfront Plaza,500 Ala Moana Boulevard,,,532-7310,ABM,30 min-$3; 1 hr-$6; 90 min-$9; 2 hrs-$12; 2.5 hrs-$15; 3 hrs-$18; 4 hrs-$24,,$9 (5:30-10 am),,,,Mon-Fri: 6 am -10 pm; Sunday 9 am-2 pm,,,,,"6' 4""",,
+Zoo Lot (Commercial parking),151 Kapahulu Avenue,,,,CCH-DES,,,,,,,,,,,,,,
+,"567 SOUTH KING ST, HONOLULU, HI 96813",,"567 SOUTH KING ST
+HONOLULU, HI 96813", (808) 772-0398,,Call,Call,,,,None,Weekdays: 6:30 am to 6:30 pm | Weekends Open 24 Hours,,,,,,,
+,"1065 KAWAIHAO STREET, HONOLULU, HI 96814",,"1065 KAWAIHAO STREET, HONOLULU, HI 96814", (808) 594-0215,,,,,,,,Weekdays: 4:30 am to 11:30 pm | Weekends : 5:30 am to 8:30 pm,,,,,,,
+,1401 South Beretania,,,,,,,,,,,,,,,,,,
+,1440 Kapiolani,,,,,,,,,,,,,,,,,,
+Hyatt Place Waikiki,,,,,,,,,,,,,,,,,,,
+Salt at Kaka'ako,,,,,,,,,,,,,,,,,,,
