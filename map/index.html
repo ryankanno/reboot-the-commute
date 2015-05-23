@@ -15,7 +15,9 @@
     <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
     <script>
+        var infowindow;
         var map;
+
         function initialize() {
             var mapOptions = {
                 zoom: 15,
@@ -29,18 +31,31 @@
                         var d = data._items[index];
                         if (d.location) {
                             (function() {
-                                var contentString = '<div>' + d.description + ' ' + d.operator + '</div>';
+                                console.log(d);
+                                var contentString = '<div><strong>' + d.description + '</strong> - ' + d.operator + '</div>';
+                                if (d.hourly) {
+                                    contentString += '<div><strong>Hourly:</strong> ' + d.hourly + '</div>';
+                                }
+                                if (d.early_bird) {
+                                    contentString += '<div><strong>Early Bird:</strong> ' + d.early_bird + '</div>';
+                                }
+                                if (d.weekend_rate) {
+                                    contentString += '<div><strong>Weekend Rate:</strong> ' + d.weekend_rate + '</div>';
+                                }
+                                if (d.phone) {
+                                    contentString += '<a href="tel:808-' + d.phone + '">808-' + d.phone + '</a></div>';
+                                }
+
                                 var latlng = new google.maps.LatLng(d.location.coordinates[1], d.location.coordinates[0]);
-                                var infowindow = new google.maps.InfoWindow({
-                                    content: contentString
-                                });
                                 var marker = new google.maps.Marker({
                                     position: latlng,
                                     map: map,
                                     title: data.description
                                 });
                                 google.maps.event.addListener(marker, 'click', function() {
-                                    infowindow.open(map,marker);
+                                    if (infowindow) infowindow.close();
+                                    infowindow = new google.maps.InfoWindow({content: contentString});
+                                    infowindow.open(map, marker);
                                 });
                             })();
                         }
