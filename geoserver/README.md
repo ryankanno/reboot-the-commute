@@ -17,7 +17,7 @@ Sample Queries
 
 **Find all parking structures near (21.297165, -157.861866)**
 
-`curl http://localhost:5000/parkings?where={"location": {"$near": {"$geometry": {"type":"Point", "coordinates": [-157.861866, 21.297165]}, "$maxDistance": 1000}}}`
+curl -X GET -g -d 'where={"location": {"$near": {"$geometry": {"type":"Point", "coordinates": [-157.861866, 21.297165]}, "$maxDistance": 1000}}}' ‘http://localhost:5000/parkings'
 
 **Find parkings**
 
