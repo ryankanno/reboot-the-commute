@@ -1,7 +1,8 @@
 Instructions
 ============
 
-  - Start mongodb
+  - Start mongodb (check etc/mongodb.conf)
+    - `mongod -f /opt/local/etc/mongodb/mongod.conf --httpinterface --noauth`
   - Create geospatial indices 
     - db.parkings.ensureIndex({location:"2dsphere"})
     - db.locations.ensureIndex({location:"2dsphere"})
