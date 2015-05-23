@@ -20,18 +20,7 @@ locations = {
     'item_title': 'location',
 
     'schema': {
-        'latitude': {
-            'type': 'float',
-            'minlength': 1,
-            'maxlength': 10,
-            'required': True,
-        },
-        'longitude': {
-            'type': 'float',
-            'minlength': 1,
-            'maxlength': 15,
-            'required': True,
-        },
+        'location': {'type': 'point'},
         'tag': {
             'type': 'list',
             'allowed': ["park", "bicycles"],

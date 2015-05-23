@@ -2,6 +2,10 @@ Instructions
 ============
 
   - Start mongodb
+  - Create geospatial indices 
+    - db.parkings.ensureIndex({location:"2dsphere"})
+    - db.locations.ensureIndex({location:"2dsphere"})
+  - Create l
   - `pip install -r requirements.txt`
   - python run.py
   - python seed.py
