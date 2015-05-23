@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Map</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+      html, body, #map-canvas {
+        height: 100%;
+        margin: 0px;
+        padding: 0px
+      }
+      .marker-label,
+      .marker-icon {
+    	z-index: 99;
+    	position: absolute;
+    	display: block;
+    	margin-top: -50px;
+    	margin-left: -25px;
+    	width: 50px;
+    	height: 50px;
+    	font-size: 30px !important;
+    	text-align: center;
+    	color: #000;
+    	white-space: nowrap;
+    }
+    </style>
+
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+
+    <script src="/static/js/fontawesome-markers.min.js"></script>
+
+    <script>
+
+        var BASE_URL = "http://localhost:5000/parkings";
+        var infowindow;
+        var map;
+
+        function initialize() {
+            var mapOptions = {
+                zoom: 15,
+                center: new google.maps.LatLng({{ latitude }}, {{longitude}} )
+            };
+            map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+            var marker = new google.maps.Marker({
+                position: new google.maps.LatLng({{ latitude }}, {{longitude}}),
+                map: map
+            });
+
+            jQuery.getJSON(BASE_URL + '?where={"location": {"$near": {"$geometry": {"type":"Point", "coordinates": [ {{ longitude }}, {{ latitude }}]}, "$maxDistance": 1000}}}', function( data ) {
+                jQuery.each(data, function( key, val ) {
+                    for (index = 0; index < data._items.length; ++index) {
+                        var d = data._items[index];
+                        if (d.location) {
+                            (function() {
+                                var contentString = '<div><strong>' + d.description + '</strong> - ' + d.operator + '</div>';
+                                if (d.hourly) {
+                                    contentString += '<div><strong>Hourly:</strong> ' + d.hourly + '</div>';
+                                }
+                                if (d.early_bird) {
+                                    contentString += '<div><strong>Early Bird:</strong> ' + d.early_bird + '</div>';
+                                }
+                                if (d.weekend_rate) {
+                                    contentString += '<div><strong>Weekend Rate:</strong> ' + d.weekend_rate + '</div>';
+                                }
+                                if (d.phone) {
+                                    contentString += '<a href="tel:808-' + d.phone + '">808-' + d.phone + '</a></div>';
+                                }
+
+                                var latlng = new google.maps.LatLng(d.location.coordinates[1], d.location.coordinates[0]);
+                                var SQUARE_PIN = 'M 50 -119.876 -50 -119.876 -50 -19.876 -13.232 -19.876 0.199 0 13.63 -19.876 50 -19.876 Z';
+                                var marker = new google.maps.Marker({
+                                    position: latlng,
+                                    map: map,
+                                    zIndex: 9,
+                                    title: data.description,
+                                    icon: {
+                                        path: fontawesome.markers.CAR,
+                                        scale: 0.4,
+                                        strokeWeight: 0.1,
+                                        strokeColor: 'black',
+                                        strokeOpacity: 1,
+                                        fillColor: '#000',
+                                        fillOpacity: 0.7,
+                                    }
+                                });
+                                google.maps.event.addListener(marker, 'click', function() {
+                                    if (infowindow) infowindow.close();
+                                    infowindow = new google.maps.InfoWindow({content: contentString});
+                                    infowindow.open(map, marker);
+                                });
+                            })();
+                        }
+                    }
+                });
+            });
+        }
+
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+  </head>
+  <body>
+    <div id="map-canvas"></div>
+  </body>
